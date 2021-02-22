@@ -1,0 +1,243 @@
+country,code,population,lastDate,peopleFullyVaccinated,vaccinatedPerHundred,averagePeoplePerDay,targetDate
+Afghanistan,AFG,38928341,,,,,
+Albania,ALB,2877800,19.02.2021,611,0.02,25,"March 2210"
+Algeria,DZA,43851043,19.02.2021,,,,
+"American Samoa",ASM,55197,,,,,
+Andorra,AND,77265,19.02.2021,,,,
+Angola,AGO,32866268,,,,,
+Anguilla,AIA,15002,14.02.2021,,,,
+"Antigua and Barbuda",ATG,97928,,,,,
+Argentina,ARG,45195777,21.02.2021,263338,0.58,3676,"February 2041"
+Armenia,ARM,2963234,,,,,
+Aruba,ABW,106766,,,,,
+Australia,AUS,25499881,,,,,
+Austria,AUT,9006400,21.02.2021,195539,2.17,7379,"January 2023"
+Azerbaijan,AZE,10139175,06.02.2021,,,,
+Bahamas,BHS,393248,,,,,
+Bahrain,BHR,1701583,21.02.2021,,,,
+Bangladesh,BGD,164689383,20.02.2021,,,,
+Barbados,BRB,287371,19.02.2021,,,,
+Belarus,BLR,9449321,18.02.2021,,,,
+Belgium,BEL,11589616,20.02.2021,263064,2.27,5255,"August 2024"
+Belize,BLZ,397621,,,,,
+Benin,BEN,12123198,,,,,
+Bermuda,BMU,62273,15.02.2021,,,,
+Bhutan,BTN,771612,,,,,
+Bolivia,BOL,11673029,11.02.2021,,,,
+"Bonaire Sint Eustatius and Saba",BES,26221,,,,,
+"Bosnia and Herzegovina",BIH,3280815,,,,,
+Botswana,BWA,2351625,,,,,
+Brazil,BRA,212559409,21.02.2021,1132894,0.53,130718,"October 2023"
+"British Virgin Islands",VGB,30237,,,,,
+Brunei,BRN,437483,,,,,
+Bulgaria,BGR,6948445,21.02.2021,26973,0.39,808,"March 2035"
+"Burkina Faso",BFA,20903278,,,,,
+Burundi,BDI,11890781,,,,,
+Cambodia,KHM,16718971,19.02.2021,,,,
+Cameroon,CMR,26545864,,,,,
+Canada,CAN,37742157,19.02.2021,,,,
+"Cape Verde",CPV,555988,,,,,
+"Cayman Islands",CYM,65720,20.02.2021,7638,11.62,181,"August 2021"
+"Central African Republic",CAF,4829764,,,,,
+Chad,TCD,16425859,,,,,
+"Channel Islands",OWID_CIS,173859,,,,,
+Chile,CHL,19116209,21.02.2021,55242,0.29,2,"January 17647"
+China,CHN,1439323774,09.02.2021,,,,
+Colombia,COL,50882884,21.02.2021,,,,
+Comoros,COM,869595,,,,,
+Congo,COG,5518092,,,,,
+"Cook Islands",COK,17564,,,,,
+"Costa Rica",CRI,5094114,15.02.2021,,,,
+"Cote d'Ivoire",CIV,26378275,,,,,
+Croatia,HRV,4105268,18.02.2021,55053,1.34,325,"June 2041"
+Cuba,CUB,11326616,,,,,
+Curacao,CUW,164100,,,,,
+Cyprus,CYP,875899,20.02.2021,19221,2.19,627,"May 2023"
+Czechia,CZE,10708982,21.02.2021,207552,1.94,4564,"November 2024"
+"Democratic Republic of Congo",COD,89561404,,,,,
+Denmark,DNK,5792203,20.02.2021,175195,3.02,511,"October 2038"
+Djibouti,DJI,988002,,,,,
+Dominica,DMA,71991,,,,,
+"Dominican Republic",DOM,10847904,17.02.2021,,,,
+Ecuador,ECU,17643060,17.02.2021,1962,0.01,281,"April 2124"
+Egypt,EGY,102334403,30.01.2021,,,,
+"El Salvador",SLV,6486201,,,,,
+"Equatorial Guinea",GNQ,1402985,,,,,
+Eritrea,ERI,3546427,,,,,
+Estonia,EST,1326539,21.02.2021,26053,1.96,530,"February 2025"
+Ethiopia,ETH,114963583,,,,,
+"Faeroe Islands",FRO,48865,21.02.2021,1515,3.1,42,"December 2022"
+"Falkland Islands",FLK,3483,15.02.2021,,,,
+Fiji,FJI,896444,,,,,
+Finland,FIN,5540718,21.02.2021,75940,1.37,1279,"February 2028"
+France,FRA,65273512,20.02.2021,1155637,1.7,62679,"October 2022"
+"French Guiana",GUF,298682,,,,,
+"French Polynesia",PYF,280904,,,,,
+Gabon,GAB,2225728,,,,,
+Gambia,GMB,2416664,,,,,
+Georgia,GEO,3989175,,,,,
+Germany,DEU,83783945,21.02.2021,1756478,2.1,39463,"July 2024"
+Ghana,GHA,31072945,,,,,
+Gibraltar,GIB,33691,20.02.2021,12573,37.32,333,"March 2021"
+Greece,GRC,10423056,21.02.2021,229589,2.2,8699,"January 2023"
+Greenland,GRL,56772,27.01.2021,,,,
+Grenada,GRD,112519,,,,,
+Guadeloupe,GLP,400127,,,,,
+Guam,GUM,168783,,,,,
+Guatemala,GTM,17915567,,,,,
+Guinea,GIN,13132792,,,,,
+Guinea-Bissau,GNB,1967998,,,,,
+Guyana,GUY,786559,15.02.2021,,,,
+Haiti,HTI,11402533,,,,,
+Honduras,HND,9904608,,,,,
+"Hong Kong",HKG,7496988,,,,,
+Hungary,HUN,9660350,21.02.2021,201005,2.08,9916,"September 2022"
+Iceland,ISL,341250,19.02.2021,10074,2.95,617,"January 2022"
+India,IND,1380004385,21.02.2021,960642,0.07,123218,"July 2039"
+Indonesia,IDN,273523621,20.02.2021,732634,0.27,35716,"September 2033"
+Iran,IRN,83992953,17.02.2021,,,,
+Iraq,IRQ,40222503,,,,,
+Ireland,IRL,4937796,18.02.2021,120520,2.44,3162,"August 2023"
+"Isle of Man",IMN,85032,21.02.2021,4733,5.57,201,"October 2021"
+Israel,ISR,8655541,21.02.2021,2990343,34.55,52542,"April 2021"
+Italy,ITA,60461828,21.02.2021,1330468,2.2,4627,"October 2041"
+Jamaica,JAM,2961161,,,,,
+Japan,JPN,126476458,19.02.2021,,,,
+Jordan,JOR,10203140,,,,,
+Kazakhstan,KAZ,18776707,,,,,
+Kenya,KEN,53771300,,,,,
+Kiribati,KIR,119446,,,,,
+Kosovo,OWID_KOS,1932774,,,,,
+Kuwait,KWT,4270563,15.02.2021,,,,
+Kyrgyzstan,KGZ,6524191,,,,,
+Laos,LAO,7275556,,,,,
+Latvia,LVA,1886202,21.02.2021,16783,0.89,53,"September 2078"
+Lebanon,LBN,6825442,21.02.2021,,,,
+Lesotho,LSO,2142252,,,,,
+Liberia,LBR,5057677,,,,,
+Libya,LBY,6871287,,,,,
+Liechtenstein,LIE,38137,17.02.2021,,,,
+Lithuania,LTU,2722291,20.02.2021,67014,2.46,1690,"September 2023"
+Luxembourg,LUX,625976,18.02.2021,7080,1.13,159,"June 2027"
+Macao,MAC,649342,18.02.2021,,,,
+"North Macedonia",MKD,2083380,,,,,
+Madagascar,MDG,27691019,,,,,
+Malawi,MWI,19129955,,,,,
+Malaysia,MYS,32365998,,,,,
+Maldives,MDV,540542,21.02.2021,,,,
+Mali,MLI,20250834,,,,,
+Malta,MLT,441539,20.02.2021,20189,4.57,441,"August 2022"
+"Marshall Islands",MHL,59194,,,,,
+Martinique,MTQ,375265,,,,,
+Mauritania,MRT,4649660,,,,,
+Mauritius,MUS,1271767,17.02.2021,,,,
+Mayotte,MYT,272813,,,,,
+Melanesia,OWID_MNS,11122990,,,,,
+Mexico,MEX,128932753,21.02.2021,453055,0.35,52409,"March 2025"
+"Micronesia (country)",FSM,115021,,,,,
+Moldova,MDA,4033963,,,,,
+Monaco,MCO,39244,18.01.2021,,,,
+Mongolia,MNG,3278292,,,,,
+Montenegro,MNE,628062,,,,,
+Montserrat,MSR,4999,,,,,
+Morocco,MAR,36910558,20.02.2021,13476,0.04,1926,"August 2052"
+Mozambique,MOZ,31255435,,,,,
+Myanmar,MMR,54409794,02.02.2021,,,,
+Namibia,NAM,2540916,,,,,
+Nauru,NRU,10834,,,,,
+Nepal,NPL,29136808,04.02.2021,,,,
+Netherlands,NLD,17134873,20.02.2021,,,,
+"New Caledonia",NCL,285491,,,,,
+"New Zealand",NZL,4822233,20.02.2021,,,,
+Nicaragua,NIC,6624554,,,,,
+Niger,NER,24206636,,,,,
+Nigeria,NGA,206139587,,,,,
+Niue,NIU,1618,,,,,
+"North Korea",PRK,25778815,,,,,
+"Northern Mariana Islands",MNP,57557,,,,,
+Norway,NOR,5421242,18.02.2021,93251,1.72,2999,"January 2024"
+Oman,OMN,5106622,21.02.2021,19019,0.37,964,"October 2029"
+Pakistan,PAK,220892331,21.02.2021,,,,
+Palau,PLW,18092,,,,,
+Palestine,PSE,5101416,,,,,
+Panama,PAN,4314768,21.02.2021,,,,
+"Papua New Guinea",PNG,8947027,,,,,
+Paraguay,PRY,7132530,,,,,
+Peru,PER,32971846,21.02.2021,,,,
+Philippines,PHL,109581085,,,,,
+Poland,POL,37846605,21.02.2021,929965,2.46,38819,"September 2022"
+Polynesia,OWID_PYA,683778,,,,,
+Portugal,PRT,10196707,21.02.2021,246433,2.42,6962,"June 2023"
+"Puerto Rico",PRI,2860840,,,,,
+Qatar,QAT,2881060,17.02.2021,,,,
+Reunion,REU,895308,,,,,
+Romania,ROU,19237682,21.02.2021,576126,2.99,17423,"November 2022"
+Russia,RUS,145934460,10.02.2021,,,,
+Rwanda,RWA,12952209,,,,,
+"Saint Barthlemy",,9885,,37773,1.2,4361,"February 2021"
+"Saint Helena",SHN,6071,03.02.2021,,,,
+"Saint Kitts and Nevis",KNA,53192,,,,,
+"Saint Lucia",LCA,183629,,,,,
+"Saint Martin (French part)",MAF,38659,,,,,
+"Saint Pierre and Miquelon",SPM,5795,,,,,
+"Saint Vincent and the Grenadines",VCT,110947,,,,,
+Samoa,WSM,198410,,,,,
+"San Marino",SMR,33938,,,,,
+"Sao Tome and Principe",STP,219161,,,,,
+"Saudi Arabia",SAU,34813867,18.02.2021,,,,
+Senegal,SEN,16743930,,,,,
+Serbia,SRB,6804596,14.02.2021,,,,
+"Serbia (including Kosovo)",,9885,,37773,1.2,4361,"February 2021"
+Seychelles,SYC,98340,20.02.2021,21599,21.96,737,"April 2021"
+"Sierra Leone",SLE,7976985,,,,,
+Singapore,SGP,5850343,18.02.2021,110000,1.88,14858,"October 2021"
+"Sint Maarten (Dutch part)",SXM,42882,,,,,
+Slovakia,SVK,5459643,21.02.2021,95291,1.75,3685,"July 2023"
+Slovenia,SVN,2078932,20.02.2021,49917,2.4,247,"June 2034"
+"Solomon Islands",SLB,686878,,,,,
+Somalia,SOM,15893219,,,,,
+"South Africa",ZAF,59308690,21.02.2021,15388,0.03,2199,"June 2065"
+"South Korea",KOR,51269183,,,,,
+"South Sudan",SSD,11193729,,,,,
+Spain,ESP,46754783,18.02.2021,1171026,2.5,10587,"February 2028"
+"Sri Lanka",LKA,21413250,21.02.2021,,,,
+Sudan,SDN,43849269,,,,,
+Suriname,SUR,586634,,,,,
+Eswatini,SWZ,1160164,,,,,
+Sweden,SWE,10099270,19.02.2021,187751,1.86,10221,"September 2022"
+Switzerland,CHE,8654618,17.02.2021,137405,1.59,5044,"November 2023"
+Syria,SYR,17500657,,,,,
+Taiwan,TWN,23816775,,,,,
+Tajikistan,TJK,9537642,,,,,
+Tanzania,TZA,59734213,,,,,
+Thailand,THA,69799978,,,,,
+Timor,TLS,1318442,,,,,
+Togo,TGO,8278737,,,,,
+Tokelau,TKL,1350,,,,,
+Tonga,TON,105697,,,,,
+"Trinidad and Tobago",TTO,1399491,,,,,
+Tunisia,TUN,11818618,,,,,
+Turkey,TUR,84339067,21.02.2021,1053837,1.25,68566,"February 2023"
+Turkmenistan,TKM,6031187,,,,,
+"Turks and Caicos Islands",TCA,38718,08.02.2021,,,,
+Tuvalu,TUV,11792,,,,,
+Uganda,UGA,45741000,,,,,
+Ukraine,UKR,43733759,,,,,
+"United Arab Emirates",ARE,9890400,21.02.2021,,,,
+"United Kingdom",GBR,67886004,20.02.2021,615148,0.91,9855,"April 2032"
+"United States",USA,331002647,21.02.2021,18865319,5.64,683983,"November 2021"
+"United States Virgin Islands",VIR,104423,,,,,
+Uruguay,URY,3473727,,,,,
+Uzbekistan,UZB,33469199,,,,,
+Vanuatu,VUT,307150,,,,,
+Vatican,VAT,809,,,,,
+Venezuela,VEN,28435943,,,,,
+Vietnam,VNM,97338583,,,,,
+"Wallis and Futuna",WLF,11246,,,,,
+"Western Sahara",ESH,597330,,,,,
+World,OWID_WRL,7794798729,,39307519,0.5,1431184,"January 2030"
+Yemen,YEM,29825968,,,,,
+Zambia,ZMB,18383956,,,,,
+Zimbabwe,ZWE,14862927,,,,,
+Guernsey,GGY,67052,14.02.2021,,,,
+Jersey,JEY,101073,14.02.2021,,,,
